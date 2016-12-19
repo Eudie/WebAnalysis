@@ -1,0 +1,358 @@
+{
+    "articles": {
+        "count": 2, 
+        "pages": 2573, 
+        "totalResults": 5146, 
+        "results": [
+            {
+                "lang": "eng", 
+                "body": "The former Dundee United man has played his way into Brendan Rodgers plans, featuring for the Hoops in their last four matches.Get daily updates directly to your inbox+ Subscribe Thank you for subscribing!Could not subscribe, try again laterInvalid Email\n\nCeltic are about to go into cold storage but ...", 
+                "title": "Gary Mackay-Steven says Celtic season starts for him now", 
+                "url": "http://www.dailyrecord.co.uk/sport/football/football-news/gary-mackay-steven-says-celtic-9482498", 
+                "image": "http://i4.dailyrecord.co.uk/incoming/article9427363.ece/ALTERNATES/s1200/JS107034069.jpg", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Dundee", 
+                        "label": {
+                            "eng": "Dundee"
+                        }, 
+                        "score": 5, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "United Kingdom"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Dundee"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "89618"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Association football"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Association_football", 
+                        "id": "302552"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "UEFA Champions League"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/UEFA_Champions_League", 
+                        "id": "304606"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Premier League"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Premier_League", 
+                        "id": "305673"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Manchester City F.C."
+                        }, 
+                        "score": 3, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Manchester_City_F.C.", 
+                        "id": "305682"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Midfielder"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Midfielder", 
+                        "id": "305737"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Partick Thistle F.C."
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Partick_Thistle_F.C.", 
+                        "id": "307710"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Celtic F.C."
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Celtic_F.C.", 
+                        "id": "314761"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Scott Brown (footballer, born June 1985)"
+                        }, 
+                        "score": 1, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Scott_Brown_(footballer,_born_June_1985)", 
+                        "id": "329326"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Ross County F.C."
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Ross_County_F.C.", 
+                        "id": "329344"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Brendan Rodgers"
+                        }, 
+                        "score": 5, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Brendan_Rodgers", 
+                        "id": "329805"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Ronny Deila"
+                        }, 
+                        "score": 1, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Ronny_Deila", 
+                        "id": "330796"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Substitute (association football)"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Substitute_(association_football)", 
+                        "id": "331378"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Dundee United F.C."
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Dundee_United_F.C.", 
+                        "id": "391428"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Scott Sinclair"
+                        }, 
+                        "score": 2, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Scott_Sinclair", 
+                        "id": "394588"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "James Forrest (footballer)"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/James_Forrest", 
+                        "id": "421444"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Gary Mackay-Steven"
+                        }, 
+                        "score": 5, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Gary_Mackay-Steven", 
+                        "id": "483312"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Stuart Armstrong"
+                        }, 
+                        "score": 2, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Stuart_Armstrong", 
+                        "id": "569364"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Games/Video Games/Recreation", 
+                        "uri": "dmoz/Games/Video_Games/Recreation", 
+                        "id": 51
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Arts/Performing Arts/Theatre", 
+                        "uri": "dmoz/Arts/Performing_Arts/Theatre", 
+                        "id": 114
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Arts/Literature/Drama", 
+                        "uri": "dmoz/Arts/Literature/Drama", 
+                        "id": 284
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Sports/Fitness", 
+                        "uri": "dmoz/Shopping/Sports/Fitness", 
+                        "id": 983
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }
+                ], 
+                "uri": "568007795", 
+                "eventUri": "eng-2739849", 
+                "date": "2016-12-19", 
+                "source": {
+                    "title": "Daily Record & Sunday Mail", 
+                    "id": "686", 
+                    "uri": "www.dailyrecord.co.uk"
+                }, 
+                "time": "06:11:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9180709", 
+                "sim": 0.6235294342041016
+            }, 
+            {
+                "lang": "eng", 
+                "body": "Mumbai: Actor Ram Charan Teja, who has been married to Upasna Kamineni for four years now, says fatherhood will happen soon, but for now, he wants to just enjoy the company of his wife.\n\nAsked about his fatherhood plans, Ram Charan said: \"Come on, I am a just child myself!\"\n\nThe 31-year-old added: ...", 
+                "title": "Fatherhood Will Happen Soon: Ram Charan Teja", 
+                "url": "http://www.news18.com/news/lifestyle/fatherhood-will-happen-soon-ram-charan-teja-1324735.html", 
+                "image": "http://img01.ibnlive.in/ibnlive/uploads/2016/12/ram.jpg", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Mumbai", 
+                        "label": {
+                            "eng": "Mumbai"
+                        }, 
+                        "score": 4, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "India"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Mumbai"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "55019"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Father"
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Father", 
+                        "id": "326278"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Ram Charan"
+                        }, 
+                        "score": 4, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Ram_Charan", 
+                        "id": "338289"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Dhruva"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Dhruva", 
+                        "id": "781801"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Arts/Performing Arts/Theatre", 
+                        "uri": "dmoz/Arts/Performing_Arts/Theatre", 
+                        "id": 114
+                    }, 
+                    {
+                        "wgt": 300, 
+                        "label": "dmoz/Arts/Literature/Drama", 
+                        "uri": "dmoz/Arts/Literature/Drama", 
+                        "id": 284
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Games/Online", 
+                        "uri": "dmoz/Games/Online", 
+                        "id": 566
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Home/Family/Parenting", 
+                        "uri": "dmoz/Home/Family/Parenting", 
+                        "id": 594
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Games/Online/Roleplaying", 
+                        "uri": "dmoz/Games/Online/Roleplaying", 
+                        "id": 956
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Home/Cooking/Brand Name Recipes", 
+                        "uri": "dmoz/Home/Cooking/Brand_Name_Recipes", 
+                        "id": 1327
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Home/Cooking/Recipe Collections", 
+                        "uri": "dmoz/Home/Cooking/Recipe_Collections", 
+                        "id": 1602
+                    }
+                ], 
+                "uri": "568001031", 
+                "eventUri": null, 
+                "date": "2016-12-19", 
+                "source": {
+                    "title": "News18", 
+                    "id": "2489", 
+                    "uri": "www.news18.com"
+                }, 
+                "time": "05:49:00", 
+                "isDuplicate": true, 
+                "wgt": 100, 
+                "id": "9178249", 
+                "sim": 0
+            }
+        ], 
+        "page": 1
+    }
+}

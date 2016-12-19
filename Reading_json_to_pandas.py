@@ -5,11 +5,30 @@ import pandas as pd
 import json
 import codecs
 from pandas.io.json import json_normalize
+from newspaper import Article
 
-with codecs.open("eventRegistry1.json", "r", encoding='utf-8') as data_file:
-    data = json.load(data_file)
+df = pd.DataFrame([])
 
-print data['articles']['results'][0]['url']
-print len(data['articles']['results'])
+list_of_json_files = ["eventRegistry3.json", "eventRegistry4.json"]
 
-print json_normalize(data['articles']['results'])
+
+for files in list_of_json_files:
+    with codecs.open(files, "r", encoding='utf-8') as data_file:
+        data = json.load(data_file)
+
+    df = df.append(json_normalize(data['articles']['results']))
+
+full_news_article = []
+summary = []
+keywords_from_newspaper = []
+for row in df['url']:
+    news_main_article = Article(row)
+    news_main_article.download()
+    news_main_article.parse()
+    full_news_article.append(news_main_article.text)
+
+print full_news_article
+
+
+
+
