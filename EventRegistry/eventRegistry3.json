@@ -1,0 +1,3870 @@
+{
+    "articles": {
+        "count": 20, 
+        "pages": 258, 
+        "totalResults": 5148, 
+        "results": [
+            {
+                "lang": "eng", 
+                "body": "Forget the days of grabbing an old t-shirt and moseying on over to the local gym.\n\nToday's consumers are demanding more dynamic answers to their fitness cravings.\n\nGuavaPass, a startup launched just last year, allows users to book classes at boutique studios, usually reserved for members only. ...", 
+                "title": "This app wants you to ditch the gym membership", 
+                "url": "http://www.cnbc.com/2016/12/19/this-app-wants-you-to-ditch-the-gym-membership.html", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Australia", 
+                        "label": {
+                            "eng": "Australia"
+                        }, 
+                        "score": 1, 
+                        "location": {
+                            "type": "country", 
+                            "label": {
+                                "eng": "Australia"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "12"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Singapore", 
+                        "label": {
+                            "eng": "Singapore"
+                        }, 
+                        "score": 3, 
+                        "location": {
+                            "type": "country", 
+                            "label": {
+                                "eng": "Singapore"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "199"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/United_States", 
+                        "label": {
+                            "eng": "United States"
+                        }, 
+                        "score": 1, 
+                        "location": {
+                            "type": "country", 
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "233"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Business"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Business", 
+                        "id": "302720"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Asia", 
+                        "label": {
+                            "eng": "Asia"
+                        }, 
+                        "score": 3, 
+                        "location": null, 
+                        "type": "loc", 
+                        "id": "303540"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "CNBC.com"
+                        }, 
+                        "score": 3, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/CNBC", 
+                        "id": "306255"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Yoga"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Yoga", 
+                        "id": "306506"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Business model"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Business_model", 
+                        "id": "307010"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "T-shirt"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/T-shirt", 
+                        "id": "308674"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Gym"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Gym", 
+                        "id": "310319"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Startup company"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Startup_company", 
+                        "id": "310944"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Today (U.S. TV program)"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Today_(U.S._TV_program)", 
+                        "id": "313593"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Physical fitness"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Physical_fitness", 
+                        "id": "318839"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Weight training"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Weight_training", 
+                        "id": "328415"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Series A round"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Series_A_round", 
+                        "id": "347279"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "High-intensity interval training"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/High-intensity_interval_training", 
+                        "id": "457529"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Sports/Fitness", 
+                        "uri": "dmoz/Shopping/Sports/Fitness", 
+                        "id": 983
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Society/Religion and Spirituality/Yoga", 
+                        "uri": "dmoz/Society/Religion_and_Spirituality/Yoga", 
+                        "id": 1584
+                    }
+                ], 
+                "uri": "568021680", 
+                "eventUri": null, 
+                "date": "2016-12-19", 
+                "source": {
+                    "title": "CNBC", 
+                    "id": "722", 
+                    "uri": "www.cnbc.com"
+                }, 
+                "time": "06:50:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9185538", 
+                "sim": 0
+            }, 
+            {
+                "lang": "eng", 
+                "body": "(1888PressRelease) December 19, 2016 - Tampa, Florida: The growth of a locally-owned business in the Tampa Bay area is a cause for celebration in our current economy. It's especially so for women in the Carrollwood area who now have a clean, friendly fitness alternative that offers 30-minute ...", 
+                "title": "Locally-owned Women's Fitness Center Expands To Carrollwood", 
+                "url": "http://satprnews.com/2016/12/19/locally-owned-womens-fitness-center-expands-to-carrollwood/", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Tampa,_Florida", 
+                        "label": {
+                            "eng": "Tampa, Florida"
+                        }, 
+                        "score": 4, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "United States"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Tampa, Florida"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "182437"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Wesley_Chapel,_Florida", 
+                        "label": {
+                            "eng": "Wesley Chapel, Florida"
+                        }, 
+                        "score": 2, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "United States"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Wesley Chapel, Florida"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "182538"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Health"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Health", 
+                        "id": "302504"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Business"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Business", 
+                        "id": "302720"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Energy"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Energy", 
+                        "id": "303165"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Snack"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Snack", 
+                        "id": "303384"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Coffee"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Coffee", 
+                        "id": "303928"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Physical exercise"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Physical_exercise", 
+                        "id": "305854"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Weight loss"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Weight_loss", 
+                        "id": "306464"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Nutrition"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Nutrition", 
+                        "id": "307039"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Physical fitness"
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Physical_fitness", 
+                        "id": "318839"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Baby boomer"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Baby_boomer", 
+                        "id": "320076"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Recruit training"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Recruit_training", 
+                        "id": "330494"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Self care"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Self_care", 
+                        "id": "337169"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Tampa_Bay_Area", 
+                        "label": {
+                            "eng": "Tampa Bay Area"
+                        }, 
+                        "score": 4, 
+                        "location": null, 
+                        "type": "loc", 
+                        "id": "340356"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Personal trainer"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Personal_trainer", 
+                        "id": "341437"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Carrollwood,_Florida", 
+                        "label": {
+                            "eng": "Carrollwood, Florida"
+                        }, 
+                        "score": 5, 
+                        "location": null, 
+                        "type": "loc", 
+                        "id": "824402"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Business/Consumer Goods and Services/Sporting Goods", 
+                        "uri": "dmoz/Business/Consumer_Goods_and_Services/Sporting_Goods", 
+                        "id": 88
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Society/People/Women", 
+                        "uri": "dmoz/Society/People/Women", 
+                        "id": 121
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Shopping/Sports/Fitness", 
+                        "uri": "dmoz/Shopping/Sports/Fitness", 
+                        "id": 983
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Sports/Strength Sports/Bodybuilding", 
+                        "uri": "dmoz/Sports/Strength_Sports/Bodybuilding", 
+                        "id": 1461
+                    }
+                ], 
+                "uri": "568018645", 
+                "eventUri": null, 
+                "date": "2016-12-19", 
+                "source": {
+                    "title": "satprnews.com", 
+                    "id": "16670", 
+                    "uri": "satprnews.com"
+                }, 
+                "time": "06:46:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9184968", 
+                "sim": 0
+            }, 
+            {
+                "lang": "eng", 
+                "body": "The former Dundee United man has played his way into Brendan Rodgers plans, featuring for the Hoops in their last four matches.Get daily updates directly to your inbox+ Subscribe Thank you for subscribing!Could not subscribe, try again laterInvalid Email\n\nCeltic are about to go into cold storage but ...", 
+                "title": "Gary Mackay-Steven says Celtic season starts for him now", 
+                "url": "http://www.dailyrecord.co.uk/sport/football/football-news/gary-mackay-steven-says-celtic-9482498", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Dundee", 
+                        "label": {
+                            "eng": "Dundee"
+                        }, 
+                        "score": 5, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "United Kingdom"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Dundee"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "89618"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Association football"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Association_football", 
+                        "id": "302552"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "UEFA Champions League"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/UEFA_Champions_League", 
+                        "id": "304606"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Premier League"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Premier_League", 
+                        "id": "305673"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Manchester City F.C."
+                        }, 
+                        "score": 3, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Manchester_City_F.C.", 
+                        "id": "305682"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Midfielder"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Midfielder", 
+                        "id": "305737"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Partick Thistle F.C."
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Partick_Thistle_F.C.", 
+                        "id": "307710"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Celtic F.C."
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Celtic_F.C.", 
+                        "id": "314761"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Scott Brown (footballer, born June 1985)"
+                        }, 
+                        "score": 1, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Scott_Brown_(footballer,_born_June_1985)", 
+                        "id": "329326"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Ross County F.C."
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Ross_County_F.C.", 
+                        "id": "329344"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Brendan Rodgers"
+                        }, 
+                        "score": 5, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Brendan_Rodgers", 
+                        "id": "329805"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Ronny Deila"
+                        }, 
+                        "score": 1, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Ronny_Deila", 
+                        "id": "330796"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Substitute (association football)"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Substitute_(association_football)", 
+                        "id": "331378"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Dundee United F.C."
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Dundee_United_F.C.", 
+                        "id": "391428"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Scott Sinclair"
+                        }, 
+                        "score": 2, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Scott_Sinclair", 
+                        "id": "394588"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "James Forrest (footballer)"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/James_Forrest", 
+                        "id": "421444"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Gary Mackay-Steven"
+                        }, 
+                        "score": 5, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Gary_Mackay-Steven", 
+                        "id": "483312"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Stuart Armstrong"
+                        }, 
+                        "score": 2, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Stuart_Armstrong", 
+                        "id": "569364"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Games/Video Games/Recreation", 
+                        "uri": "dmoz/Games/Video_Games/Recreation", 
+                        "id": 51
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Arts/Performing Arts/Theatre", 
+                        "uri": "dmoz/Arts/Performing_Arts/Theatre", 
+                        "id": 114
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Arts/Literature/Drama", 
+                        "uri": "dmoz/Arts/Literature/Drama", 
+                        "id": 284
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Sports/Fitness", 
+                        "uri": "dmoz/Shopping/Sports/Fitness", 
+                        "id": 983
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }
+                ], 
+                "uri": "568007795", 
+                "eventUri": "eng-2739849", 
+                "date": "2016-12-19", 
+                "source": {
+                    "title": "Daily Record & Sunday Mail", 
+                    "id": "686", 
+                    "uri": "www.dailyrecord.co.uk"
+                }, 
+                "time": "06:11:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9180709", 
+                "sim": 0.6235294342041016
+            }, 
+            {
+                "lang": "eng", 
+                "body": "Mumbai: Actor Ram Charan Teja, who has been married to Upasna Kamineni for four years now, says fatherhood will happen soon, but for now, he wants to just enjoy the company of his wife.\n\nAsked about his fatherhood plans, Ram Charan said: \"Come on, I am a just child myself!\"\n\nThe 31-year-old added: ...", 
+                "title": "Fatherhood Will Happen Soon: Ram Charan Teja", 
+                "url": "http://www.news18.com/news/lifestyle/fatherhood-will-happen-soon-ram-charan-teja-1324735.html", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Mumbai", 
+                        "label": {
+                            "eng": "Mumbai"
+                        }, 
+                        "score": 4, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "India"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Mumbai"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "55019"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Father"
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Father", 
+                        "id": "326278"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Ram Charan"
+                        }, 
+                        "score": 4, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Ram_Charan", 
+                        "id": "338289"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Dhruva"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Dhruva", 
+                        "id": "781801"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Arts/Performing Arts/Theatre", 
+                        "uri": "dmoz/Arts/Performing_Arts/Theatre", 
+                        "id": 114
+                    }, 
+                    {
+                        "wgt": 300, 
+                        "label": "dmoz/Arts/Literature/Drama", 
+                        "uri": "dmoz/Arts/Literature/Drama", 
+                        "id": 284
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Games/Online", 
+                        "uri": "dmoz/Games/Online", 
+                        "id": 566
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Home/Family/Parenting", 
+                        "uri": "dmoz/Home/Family/Parenting", 
+                        "id": 594
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Games/Online/Roleplaying", 
+                        "uri": "dmoz/Games/Online/Roleplaying", 
+                        "id": 956
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Home/Cooking/Brand Name Recipes", 
+                        "uri": "dmoz/Home/Cooking/Brand_Name_Recipes", 
+                        "id": 1327
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Home/Cooking/Recipe Collections", 
+                        "uri": "dmoz/Home/Cooking/Recipe_Collections", 
+                        "id": 1602
+                    }
+                ], 
+                "uri": "568001031", 
+                "eventUri": null, 
+                "date": "2016-12-19", 
+                "source": {
+                    "title": "News18", 
+                    "id": "2489", 
+                    "uri": "www.news18.com"
+                }, 
+                "time": "05:49:00", 
+                "isDuplicate": true, 
+                "wgt": 100, 
+                "id": "9178249", 
+                "sim": 0
+            }, 
+            {
+                "lang": "eng", 
+                "body": "Samsung's slimmer, lighter Gear Fit2 GPS sports band with a flexible AMOLED display to comfortably wrap around your wrist, is designed with consumers' fitness needs in mind.\n\nThe stylish Samsung Gear Fit2 provides accurate activity tracking and make workouts more enjoyable with a combination of ...", 
+                "title": "Samsung Gear Fit2 makes fitness fun for everyone ", 
+                "url": "https://mybroadband.co.za/news/industrynews/192122-samsung-gear-fit2-makes-fitness-fun-for-everyone.html", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/South_Africa", 
+                        "label": {
+                            "eng": "South Africa"
+                        }, 
+                        "score": 3, 
+                        "location": {
+                            "type": "country", 
+                            "label": {
+                                "eng": "South Africa"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "247"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Health"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Health", 
+                        "id": "302504"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Sport"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Sport", 
+                        "id": "302606"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Music"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Music", 
+                        "id": "302636"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Smartphone"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Smartphone", 
+                        "id": "302682"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Cycling"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Cycling", 
+                        "id": "302785"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Facebook.com"
+                        }, 
+                        "score": 3, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Facebook", 
+                        "id": "302866"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Physical exercise"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Physical_exercise", 
+                        "id": "305854"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Global Positioning System"
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Global_Positioning_System", 
+                        "id": "306161"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Samsung Gear"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Samsung_Gear", 
+                        "id": "306809"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Samsung"
+                        }, 
+                        "score": 4, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Samsung", 
+                        "id": "307347"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Fashion"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Fashion", 
+                        "id": "308069"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Application software"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Application_software", 
+                        "id": "308364"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Pilates"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Pilates", 
+                        "id": "308395"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Samsung Electronics"
+                        }, 
+                        "score": 4, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Samsung_Electronics", 
+                        "id": "308699"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "AMOLED"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/AMOLED", 
+                        "id": "308710"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Wearable computer"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Wearable_computer", 
+                        "id": "312307"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Walking"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Walking", 
+                        "id": "314879"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Physical fitness"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Physical_fitness", 
+                        "id": "318839"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Smart device"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Smart_device", 
+                        "id": "326911"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Wearable technology"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Wearable_technology", 
+                        "id": "342278"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Heart rate monitor"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Heart_rate_monitor", 
+                        "id": "345616"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Activity tracker"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Activity_tracker", 
+                        "id": "347044"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Treadmill"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Treadmill", 
+                        "id": "350969"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Business/Consumer Goods and Services/Sporting Goods", 
+                        "uri": "dmoz/Business/Consumer_Goods_and_Services/Sporting_Goods", 
+                        "id": 88
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Recreation/Outdoors", 
+                        "uri": "dmoz/Shopping/Recreation/Outdoors", 
+                        "id": 405
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Consumer Electronics/Communications", 
+                        "uri": "dmoz/Shopping/Consumer_Electronics/Communications", 
+                        "id": 520
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Shopping/Sports/Fitness", 
+                        "uri": "dmoz/Shopping/Sports/Fitness", 
+                        "id": 983
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Business/Telecommunications/Location and Tracking", 
+                        "uri": "dmoz/Business/Telecommunications/Location_and_Tracking", 
+                        "id": 1079
+                    }
+                ], 
+                "uri": "568000886", 
+                "eventUri": null, 
+                "date": "2016-12-19", 
+                "source": {
+                    "title": "mybroadband.co.za", 
+                    "id": "3713", 
+                    "uri": "mybroadband.co.za"
+                }, 
+                "time": "05:48:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9178184", 
+                "sim": 0
+            }, 
+            {
+                "lang": "eng", 
+                "body": "I think most of us agree that modifications are suppose to mold your Ford Mustang to fit your personality and that there is an acceptance that you are not going to please everyone with your tastes. I think we can all agree though, that there are just some modifications that should never be done to a ...", 
+                "title": "How To Ruin A Perfectly Good Ford Mustang - Mustang Evolution", 
+                "url": "http://www.mustangevolution.com/mustang-news/how-to-ruin-a-perfectly-good-ford-mustang/#comment-198433", 
+                "concepts": [
+                    {
+                        "label": {
+                            "eng": "Ford Mustang"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Ford_Mustang", 
+                        "id": "305505"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Suspension (vehicle)"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Suspension_(vehicle)", 
+                        "id": "307170"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Roush Fenway Racing"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Roush_Fenway_Racing", 
+                        "id": "329463"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Recreation/Autos", 
+                        "uri": "dmoz/Recreation/Autos", 
+                        "id": 415
+                    }, 
+                    {
+                        "wgt": 300, 
+                        "label": "dmoz/Recreation/Autos/Makes and Models", 
+                        "uri": "dmoz/Recreation/Autos/Makes_and_Models", 
+                        "id": 461
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Vehicles/Parts and Accessories", 
+                        "uri": "dmoz/Shopping/Vehicles/Parts_and_Accessories", 
+                        "id": 463
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Jewelry/Watches", 
+                        "uri": "dmoz/Shopping/Jewelry/Watches", 
+                        "id": 552
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Business/Consumer Goods and Services/Jewelry", 
+                        "uri": "dmoz/Business/Consumer_Goods_and_Services/Jewelry", 
+                        "id": 553
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Business/Chemicals/Polymers", 
+                        "uri": "dmoz/Business/Chemicals/Polymers", 
+                        "id": 607
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }
+                ], 
+                "uri": "567960684", 
+                "eventUri": null, 
+                "date": "2016-12-19", 
+                "source": {
+                    "title": "www.mustangevolution.com", 
+                    "id": "9774", 
+                    "uri": "www.mustangevolution.com"
+                }, 
+                "time": "03:39:00", 
+                "isDuplicate": true, 
+                "wgt": 100, 
+                "id": "9165929", 
+                "sim": 0
+            }, 
+            {
+                "lang": "eng", 
+                "body": "Mumbai: Best known for his comic timing and incredible sense of humour - Kapil Sharma - took to Twitter Monday morning to share a few images from his workout session.\n\nThe stand-up comedian, who is also an actor-singer, started his day with a refreshing workout and yoga session.\n\nWe are sure fans of ...", 
+                "title": "Kapil Sharma's latest pics will inspire you to remain fit", 
+                "url": "http://zeenews.india.com/people/kapil-sharma-s-latest-pics-will-inspire-you-to-remain-fit_1959705.html", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Mumbai", 
+                        "label": {
+                            "eng": "Mumbai"
+                        }, 
+                        "score": 4, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "India"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Mumbai"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "55019"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Twitter"
+                        }, 
+                        "score": 3, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Twitter", 
+                        "id": "302546"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Singing"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Singing", 
+                        "id": "302767"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Actor"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Actor", 
+                        "id": "302943"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Yoga"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Yoga", 
+                        "id": "306506"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Humour"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Humour", 
+                        "id": "308189"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Stand-up comedy"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Stand-up_comedy", 
+                        "id": "311322"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Comic timing"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Comic_timing", 
+                        "id": "312516"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Kapila"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Kapila", 
+                        "id": "526118"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Kapil Sharma (comedian)"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Kapil_Sharma_(comedian)", 
+                        "id": "1282532"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Computers/Internet/On the Web", 
+                        "uri": "dmoz/Computers/Internet/On_the_Web", 
+                        "id": 150
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Arts/Comics", 
+                        "uri": "dmoz/Arts/Comics", 
+                        "id": 679
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Arts/Comics/Retailers", 
+                        "uri": "dmoz/Arts/Comics/Retailers", 
+                        "id": 680
+                    }, 
+                    {
+                        "wgt": 300, 
+                        "label": "dmoz/Health/Alternative/Reflexology", 
+                        "uri": "dmoz/Health/Alternative/Reflexology", 
+                        "id": 750
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Society/Religion and Spirituality/Yoga", 
+                        "uri": "dmoz/Society/Religion_and_Spirituality/Yoga", 
+                        "id": 1584
+                    }
+                ], 
+                "uri": "567952968", 
+                "eventUri": null, 
+                "date": "2016-12-19", 
+                "source": {
+                    "title": "Zee News", 
+                    "id": "1741", 
+                    "uri": "zeenews.india.com"
+                }, 
+                "time": "03:08:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9163565", 
+                "sim": 0
+            }, 
+            {
+                "lang": "eng", 
+                "body": "She has been vocal about her up-and-down weight in the past.\n\nNow, Nova radio host Kate Ritchie has revealed her top secrets behind her incredible slimmer figure.\n\nDuring her latest interview with New Idea, the 38-year-old has credited a 'healthy lifestyle' for her slender frame.\n\nScroll down for ...", 
+                "title": "Kate Ritchie reveals her top secrets behind her incredible weight loss", 
+                "url": "http://www.dailymail.co.uk/~/article-4046670/index.html", 
+                "concepts": [
+                    {
+                        "label": {
+                            "eng": "Physical exercise"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Physical_exercise", 
+                        "id": "305854"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Pilates"
+                        }, 
+                        "score": 1, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Pilates", 
+                        "id": "308395"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Chocolate"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Chocolate", 
+                        "id": "310996"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Healthy diet"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Healthy_diet", 
+                        "id": "319205"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Personal trainer"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Personal_trainer", 
+                        "id": "341437"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Core stability"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Core_stability", 
+                        "id": "362595"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Home and Away"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Home_and_Away", 
+                        "id": "423829"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "New Idea"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/New_Idea", 
+                        "id": "423830"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Kate Ritchie"
+                        }, 
+                        "score": 5, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Kate_Ritchie", 
+                        "id": "738683"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Nova (radio network)"
+                        }, 
+                        "score": 4, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Nova_(radio_network)", 
+                        "id": "792903"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Society/Issues/Health", 
+                        "uri": "dmoz/Society/Issues/Health", 
+                        "id": 289
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Weight Loss", 
+                        "uri": "dmoz/Health/Weight_Loss", 
+                        "id": 578
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Weight Loss/Personal Pages", 
+                        "uri": "dmoz/Health/Weight_Loss/Personal_Pages", 
+                        "id": 579
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Health/Weight Loss", 
+                        "uri": "dmoz/Shopping/Health/Weight_Loss", 
+                        "id": 580
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Mental Health/Disorders", 
+                        "uri": "dmoz/Health/Mental_Health/Disorders", 
+                        "id": 812
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Sports/Fitness", 
+                        "uri": "dmoz/Shopping/Sports/Fitness", 
+                        "id": 983
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Shopping/Food/Confectionery", 
+                        "uri": "dmoz/Shopping/Food/Confectionery", 
+                        "id": 1391
+                    }
+                ], 
+                "uri": "567936945", 
+                "eventUri": null, 
+                "date": "2016-12-19", 
+                "source": {
+                    "title": "Mail Online", 
+                    "id": "214", 
+                    "uri": "www.dailymail.co.uk"
+                }, 
+                "time": "02:05:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9159284", 
+                "sim": 0
+            }, 
+            {
+                "lang": "eng", 
+                "body": "Brendan Rodgers handed the armband to Armstrong against Dundee with skipper Broony suspended for clash\n\nSTUART ARMSTRONG was only carrying out captain's duties on a temporary basis.\n\nBut Gary Mackay-Steven believes his team-mate has all the attributes needed as Scott Brown's natural successor.\n\nWith ...", 
+                "title": "Stuart Armstrong will be natural successor to Scott Brown says Gary Mackay-Steven", 
+                "url": "https://www.thescottishsun.co.uk/sport/football/321747/stuart-armstrong-will-be-natural-successor-to-scott-brown-says-celtic-winger-gary-mackay-steven/", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Dundee", 
+                        "label": {
+                            "eng": "Dundee"
+                        }, 
+                        "score": 5, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "United Kingdom"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Dundee"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "89618"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Association football"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Association_football", 
+                        "id": "302552"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Premier League"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Premier_League", 
+                        "id": "305673"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Referee (association football)"
+                        }, 
+                        "score": 1, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Referee_(association_football)", 
+                        "id": "305728"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Midfielder"
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Midfielder", 
+                        "id": "305737"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Penalty area"
+                        }, 
+                        "score": 1, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Penalty_area", 
+                        "id": "310436"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Celtic F.C."
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Celtic_F.C.", 
+                        "id": "314761"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Scott Brown (footballer, born June 1985)"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Scott_Brown_(footballer,_born_June_1985)", 
+                        "id": "329326"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "2012–13 La Liga"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/2012–13_La_Liga", 
+                        "id": "329799"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Brendan Rodgers"
+                        }, 
+                        "score": 5, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Brendan_Rodgers", 
+                        "id": "329805"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Leigh Griffiths"
+                        }, 
+                        "score": 2, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Leigh_Griffiths", 
+                        "id": "330793"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Ronny Deila"
+                        }, 
+                        "score": 3, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Ronny_Deila", 
+                        "id": "330796"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Dundee United F.C."
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Dundee_United_F.C.", 
+                        "id": "391428"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Gary Mackay-Steven"
+                        }, 
+                        "score": 5, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Gary_Mackay-Steven", 
+                        "id": "483312"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Darren O'Dea"
+                        }, 
+                        "score": 1, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Darren_O'Dea", 
+                        "id": "513385"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Bobby Madden"
+                        }, 
+                        "score": 1, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Bobby_Madden", 
+                        "id": "542518"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Emilio Izaguirre"
+                        }, 
+                        "score": 1, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Emilio_Izaguirre", 
+                        "id": "686113"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Tom Rogic"
+                        }, 
+                        "score": 1, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Tom_Rogi%C4%87", 
+                        "id": "1280234"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Nir Bitton"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Nir_Bitton", 
+                        "id": "1292407"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Games", 
+                        "uri": "dmoz/Games", 
+                        "id": 49
+                    }, 
+                    {
+                        "wgt": 300, 
+                        "label": "dmoz/Games/Video Games/Recreation", 
+                        "uri": "dmoz/Games/Video_Games/Recreation", 
+                        "id": 51
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Arts/Performing Arts/Theatre", 
+                        "uri": "dmoz/Arts/Performing_Arts/Theatre", 
+                        "id": 114
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Arts/Literature/Drama", 
+                        "uri": "dmoz/Arts/Literature/Drama", 
+                        "id": 284
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Sports/Fitness", 
+                        "uri": "dmoz/Shopping/Sports/Fitness", 
+                        "id": 983
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }
+                ], 
+                "uri": "567915259", 
+                "eventUri": "eng-2739849", 
+                "date": "2016-12-19", 
+                "source": {
+                    "title": "The Scottish Sun", 
+                    "id": "17001", 
+                    "uri": "www.thescottishsun.co.uk"
+                }, 
+                "time": "00:43:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9152627", 
+                "sim": 0.7098039388656616
+            }, 
+            {
+                "lang": "eng", 
+                "body": "There's a quote about playing for Celtic that their supporters have lapped up for years. \"Celtic jerseys are not for second best; they don't shrink to fit inferior players,\" said Jock Stein. Something similar might be said of the captain's armband. This a club where that wee symbol doesn't get ...", 
+                "title": "Central character Armstrong 'shows he is a true leader'", 
+                "url": "http://www.thetimes.co.uk/article/central-character-armstrong-shows-he-is-a-true-leader-dgbff5x5z", 
+                "concepts": [
+                    {
+                        "label": {
+                            "eng": "Celtic F.C."
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Celtic_F.C.", 
+                        "id": "314761"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Neil Lennon"
+                        }, 
+                        "score": 2, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Neil_Lennon", 
+                        "id": "329343"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Jock Stein"
+                        }, 
+                        "score": 3, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Jock_Stein", 
+                        "id": "482045"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Stuart Armstrong"
+                        }, 
+                        "score": 2, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Stuart_Armstrong", 
+                        "id": "569364"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Stephen McManus"
+                        }, 
+                        "score": 2, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Stephen_McManus", 
+                        "id": "666318"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Arts/Performing Arts/Theatre", 
+                        "uri": "dmoz/Arts/Performing_Arts/Theatre", 
+                        "id": 114
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Recreation/Outdoors", 
+                        "uri": "dmoz/Shopping/Recreation/Outdoors", 
+                        "id": 405
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Weight Loss", 
+                        "uri": "dmoz/Health/Weight_Loss", 
+                        "id": 578
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Weight Loss/Personal Pages", 
+                        "uri": "dmoz/Health/Weight_Loss/Personal_Pages", 
+                        "id": 579
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Society/Ethnicity/The Americas", 
+                        "uri": "dmoz/Society/Ethnicity/The_Americas", 
+                        "id": 654
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Society/Ethnicity/Celtic", 
+                        "uri": "dmoz/Society/Ethnicity/Celtic", 
+                        "id": 827
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Reference/Quotations", 
+                        "uri": "dmoz/Reference/Quotations", 
+                        "id": 1246
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Jewelry/Ethnic and Regional", 
+                        "uri": "dmoz/Shopping/Jewelry/Ethnic_and_Regional", 
+                        "id": 1472
+                    }
+                ], 
+                "uri": "567905098", 
+                "eventUri": null, 
+                "date": "2016-12-19", 
+                "source": {
+                    "title": "www.thetimes.co.uk", 
+                    "id": "2798", 
+                    "uri": "www.thetimes.co.uk"
+                }, 
+                "time": "00:09:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9148799", 
+                "sim": 0
+            }, 
+            {
+                "lang": "eng", 
+                "body": "Daina Wagner moved her company Ringer Athletics to its new downtown location in October, and she is loving the results.\n\n\"It's really a good location for advertising, and I really like the building,\" Wagner said. \"I've had a lot more business being downtown.\"\n\nPreviously location at Centennial Mall, ...", 
+                "title": "Business Buzz: Ringer Athletics working out downtown", 
+                "url": "http://www2.craigdailypress.com/news/2016/dec/18/business-buzz-ringer-athletics-working-out-downtow/", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Colorado", 
+                        "label": {
+                            "eng": "Colorado"
+                        }, 
+                        "score": 3, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "United States"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Colorado"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "229985"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Moffat_County,_Colorado", 
+                        "label": {
+                            "eng": "Moffat County, Colorado"
+                        }, 
+                        "score": 3, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "United States"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Moffat County, Colorado"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "232430"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Advertising"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Advertising", 
+                        "id": "302578"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Ford Explorer"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Ford_Explorer", 
+                        "id": "303468"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Christmas Eve"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Christmas_Eve", 
+                        "id": "307472"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Pickup truck"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Pickup_truck", 
+                        "id": "307566"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Richard Wagner"
+                        }, 
+                        "score": 5, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Richard_Wagner", 
+                        "id": "309013"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Condominium"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Condominium", 
+                        "id": "310975"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Jeep"
+                        }, 
+                        "score": 2, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Jeep", 
+                        "id": "313682"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Dodge"
+                        }, 
+                        "score": 2, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Dodge", 
+                        "id": "348314"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Colorado Northwestern Community College"
+                        }, 
+                        "score": 3, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Colorado_Northwestern_Community_College", 
+                        "id": "421544"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Recreation/Autos/Makes and Models", 
+                        "uri": "dmoz/Recreation/Autos/Makes_and_Models", 
+                        "id": 461
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Shopping/Sports/Fitness", 
+                        "uri": "dmoz/Shopping/Sports/Fitness", 
+                        "id": 983
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }
+                ], 
+                "uri": "567892140", 
+                "eventUri": null, 
+                "date": "2016-12-18", 
+                "source": {
+                    "title": "craigdailypress.com", 
+                    "id": "4093", 
+                    "uri": "www.craigdailypress.com"
+                }, 
+                "time": "23:28:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9144642", 
+                "sim": 0
+            }, 
+            {
+                "lang": "eng", 
+                "body": "KINGSTON, Jamaica--Christmas has come early for little Rusheka Goodhall, a six-year-old amputee who lost a leg to a rare form of cancer at the age of just three.\n\nRusheka left Jamaica last week to receive her first prosthesis, which will be donated and fitted by Limb Lab, an American-based ...", 
+                "title": "Six-year-old Jamaican amputee gets prosthesis for Christmas", 
+                "url": "https://thedailyherald.sx/regional/62359-six-year-old-jamaican-amputee-gets-prosthesis-for-christmas", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Jamaica", 
+                        "label": {
+                            "eng": "Jamaica"
+                        }, 
+                        "score": 5, 
+                        "location": {
+                            "type": "country", 
+                            "label": {
+                                "eng": "Jamaica"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "111"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/United_States", 
+                        "label": {
+                            "eng": "United States"
+                        }, 
+                        "score": 3, 
+                        "location": {
+                            "type": "country", 
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "233"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Muscle"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Muscle", 
+                        "id": "302851"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Cancer"
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Cancer", 
+                        "id": "303110"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Bone"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Bone", 
+                        "id": "303769"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Physician"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Physician", 
+                        "id": "303806"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Oncology"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Oncology", 
+                        "id": "303813"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Physical therapy"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Physical_therapy", 
+                        "id": "306341"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Prosthesis"
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Prosthesis", 
+                        "id": "306379"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Abdomen"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Abdomen", 
+                        "id": "306517"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Neoplasm"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Neoplasm", 
+                        "id": "309237"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Neuroblastoma"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Neuroblastoma", 
+                        "id": "310806"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Amputation"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Amputation", 
+                        "id": "311048"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "University of the West Indies"
+                        }, 
+                        "score": 3, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/University_of_the_West_Indies", 
+                        "id": "336907"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Orthotics"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Orthotics", 
+                        "id": "368498"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "The Jamaica Observer"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/The_Jamaica_Observer", 
+                        "id": "371700"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Limb (anatomy)"
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Limb_(anatomy)", 
+                        "id": "373110"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Genitourinary system"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Genitourinary_system", 
+                        "id": "385383"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Rhabdomyosarcoma"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Rhabdomyosarcoma", 
+                        "id": "391756"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Prosthetist"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Prosthetist", 
+                        "id": "715289"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 500, 
+                        "label": "dmoz/Health/Conditions and Diseases/Cancer", 
+                        "uri": "dmoz/Health/Conditions_and_Diseases/Cancer", 
+                        "id": 554
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Shopping/Sports/Fitness", 
+                        "uri": "dmoz/Shopping/Sports/Fitness", 
+                        "id": 983
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Society/Holidays/Christmas", 
+                        "uri": "dmoz/Society/Holidays/Christmas", 
+                        "id": 1594
+                    }
+                ], 
+                "uri": "567882406", 
+                "eventUri": null, 
+                "date": "2016-12-18", 
+                "source": {
+                    "title": "thedailyherald.sx", 
+                    "id": "3206", 
+                    "uri": "thedailyherald.sx"
+                }, 
+                "time": "23:00:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9141663", 
+                "sim": 0
+            }, 
+            {
+                "lang": "eng", 
+                "body": "The 100-plus employees at the gathered at Laman PKNS on Friday for the second Fit4Work session which saw a guest trainer, Jason Ong, instructing a body combat session for an hour. -- Malay Mail picSHAH ALAM, Dec 19 -- Helping find the middle ground between a tedious work schedule and the need to ...", 
+                "title": "PKNS employees enjoy healthy life through Fit4Work", 
+                "url": "http://www.themalaymailonline.com/malaysia/article/pkns-employees-enjoy-healthy-life-through-fit4work", 
+                "concepts": [
+                    {
+                        "label": {
+                            "eng": "Muhammad"
+                        }, 
+                        "score": 2, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Muhammad", 
+                        "id": "303301"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Coach (sport)"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Coach_(sport)", 
+                        "id": "305813"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Physical exercise"
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Physical_exercise", 
+                        "id": "305854"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Public relations"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Public_relations", 
+                        "id": "308000"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Corporate social responsibility"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Corporate_social_responsibility", 
+                        "id": "312983"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Working time"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Working_time", 
+                        "id": "315344"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Physical fitness"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Physical_fitness", 
+                        "id": "318839"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Mixed martial arts"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Mixed_martial_arts", 
+                        "id": "329431"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Kickboxing"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Kickboxing", 
+                        "id": "330771"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Self care"
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Self_care", 
+                        "id": "337169"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Personal trainer"
+                        }, 
+                        "score": 1, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Personal_trainer", 
+                        "id": "341437"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Fitness professional"
+                        }, 
+                        "score": 1, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Fitness_professional", 
+                        "id": "346449"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Raja"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Raja", 
+                        "id": "353692"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Zumba"
+                        }, 
+                        "score": 3, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Zumba", 
+                        "id": "375401"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Malay Mail"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/The_Malay_Mail", 
+                        "id": "415453"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Jalani Sidek"
+                        }, 
+                        "score": 2, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Jalani_Sidek", 
+                        "id": "745973"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "PKNS F.C."
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/PKNS_F.C.", 
+                        "id": "792231"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Selangor State Development Corporation"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Selangor_State_Development_Corporation", 
+                        "id": "928928"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Society/Work", 
+                        "uri": "dmoz/Society/Work", 
+                        "id": 63
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Business/Consumer Goods and Services/Sporting Goods", 
+                        "uri": "dmoz/Business/Consumer_Goods_and_Services/Sporting_Goods", 
+                        "id": 88
+                    }, 
+                    {
+                        "wgt": 300, 
+                        "label": "dmoz/Health/Alternative/Reflexology", 
+                        "uri": "dmoz/Health/Alternative/Reflexology", 
+                        "id": 750
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Shopping/Sports/Fitness", 
+                        "uri": "dmoz/Shopping/Sports/Fitness", 
+                        "id": 983
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }
+                ], 
+                "uri": "567882073", 
+                "eventUri": null, 
+                "date": "2016-12-18", 
+                "source": {
+                    "title": "www.themalaymailonline.com", 
+                    "id": "661", 
+                    "uri": "www.themalaymailonline.com"
+                }, 
+                "time": "22:59:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9141550", 
+                "sim": 0
+            }, 
+            {
+                "lang": "eng", 
+                "body": "HIROSHIMA - The Hiroshima Carp have acquired right-hander Ryan Brasier, the Central League club announced Sunday.\n\nThe 29-year-old agreed a one-year deal worth $475,000 plus incentives with a $50,000 signing bonus after going 5-3 with a 3.56 ERA, pitching mostly in relief, for Triple-A Nashville ...", 
+                "title": "Carp acquire pitcher Brasier | The Japan Times", 
+                "url": "http://www.japantimes.co.jp/sports/2016/12/18/baseball/japanese-baseball/carp-acquire-pitcher-brasier/", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Hiroshima", 
+                        "label": {
+                            "eng": "Hiroshima"
+                        }, 
+                        "score": 4, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "Japan"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Hiroshima"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "66684"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Pitcher"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Pitcher", 
+                        "id": "303571"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Relief pitcher"
+                        }, 
+                        "score": 1, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Relief_pitcher", 
+                        "id": "303714"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Earned run average"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Earned_run_average", 
+                        "id": "304992"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Innings"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Innings", 
+                        "id": "305020"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Triple-A (baseball)"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Triple-A_(baseball)", 
+                        "id": "305861"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Nashville,_Tennessee", 
+                        "label": {
+                            "eng": "Nashville, Tennessee"
+                        }, 
+                        "score": 2, 
+                        "location": null, 
+                        "type": "loc", 
+                        "id": "312422"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Oakland Athletics"
+                        }, 
+                        "score": 2, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Oakland_Athletics", 
+                        "id": "312735"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Central League"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Central_League", 
+                        "id": "450204"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Hiroshima Toyo Carp"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Hiroshima_Toyo_Carp", 
+                        "id": "763029"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 300, 
+                        "label": "dmoz/Business/Business Services/Signage", 
+                        "uri": "dmoz/Business/Business_Services/Signage", 
+                        "id": 99
+                    }, 
+                    {
+                        "wgt": 300, 
+                        "label": "dmoz/Sports/Baseball/Youth", 
+                        "uri": "dmoz/Sports/Baseball/Youth", 
+                        "id": 220
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Sports/Softball/Slowpitch", 
+                        "uri": "dmoz/Sports/Softball/Slowpitch", 
+                        "id": 395
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Recreation/Outdoors/Fishing", 
+                        "uri": "dmoz/Recreation/Outdoors/Fishing", 
+                        "id": 991
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }
+                ], 
+                "uri": "567710078", 
+                "eventUri": null, 
+                "date": "2016-12-18", 
+                "source": {
+                    "title": "The Japan Times", 
+                    "id": "836", 
+                    "uri": "www.japantimes.co.jp"
+                }, 
+                "time": "22:51:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9140884", 
+                "sim": 0
+            }, 
+            {
+                "lang": "eng", 
+                "body": "As Brendan Rodgers' Celtic inch towards a record-breaking unbeaten sequence in domestic games - they are now six short of the Lisbon Lions' 26 matches undefeated 50 years ago - the manager's biggest fitness problem could be players suffering bruised ribs from team-mates trying to elbow them out of ...", 
+                "title": "Celtic manager Brendan Rodgers nursing the best kind of headache as fight for a first-team spot intensifies ", 
+                "url": "http://www.telegraph.co.uk/football/2016/12/18/celtic-manager-brendan-rodgers-nursing-best-kind-headache-fight/", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Mackay,_Queensland", 
+                        "label": {
+                            "eng": "Mackay, Queensland"
+                        }, 
+                        "score": 5, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "Australia"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Mackay, Queensland"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "70729"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Glasgow", 
+                        "label": {
+                            "eng": "Glasgow"
+                        }, 
+                        "score": 2, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "United Kingdom"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Glasgow"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "88694"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Barcelona", 
+                        "label": {
+                            "eng": "Barcelona"
+                        }, 
+                        "score": 2, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "Spain"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Barcelona"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "151106"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Association football"
+                        }, 
+                        "score": 1, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Association_football", 
+                        "id": "302552"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "UEFA Champions League"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/UEFA_Champions_League", 
+                        "id": "304606"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Manchester City F.C."
+                        }, 
+                        "score": 3, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Manchester_City_F.C.", 
+                        "id": "305682"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Midfielder"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Midfielder", 
+                        "id": "305737"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Manager (association football)"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Manager_(association_football)", 
+                        "id": "306183"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Aston Villa F.C."
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Aston_Villa_F.C.", 
+                        "id": "306277"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Rangers F.C."
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Rangers_F.C.", 
+                        "id": "307693"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Celtic F.C."
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Celtic_F.C.", 
+                        "id": "314761"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Scottish Premiership"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Scottish_Premiership", 
+                        "id": "329323"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Brendan Rodgers"
+                        }, 
+                        "score": 4, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Brendan_Rodgers", 
+                        "id": "329805"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Leigh Griffiths"
+                        }, 
+                        "score": 3, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Leigh_Griffiths", 
+                        "id": "330793"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Ronny Deila"
+                        }, 
+                        "score": 2, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Ronny_Deila", 
+                        "id": "330796"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Dundee F.C."
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Dundee_F.C.", 
+                        "id": "342342"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Jordi Alba"
+                        }, 
+                        "score": 2, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Jordi_Alba", 
+                        "id": "379128"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Dundee United F.C."
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Dundee_United_F.C.", 
+                        "id": "391428"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Scott Sinclair"
+                        }, 
+                        "score": 3, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Scott_Sinclair", 
+                        "id": "394588"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Gary Mackay-Steven"
+                        }, 
+                        "score": 5, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Gary_Mackay-Steven", 
+                        "id": "483312"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Stuart Armstrong"
+                        }, 
+                        "score": 2, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Stuart_Armstrong", 
+                        "id": "569364"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Ryan Christie (ice hockey)"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Ryan_Christie_(ice_hockey)", 
+                        "id": "760963"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Lisbon Lions"
+                        }, 
+                        "score": 4, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Lisbon_Lions", 
+                        "id": "928407"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Nir Bitton"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Nir_Bitton", 
+                        "id": "1292407"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Sports/Basketball/Professional", 
+                        "uri": "dmoz/Sports/Basketball/Professional", 
+                        "id": 282
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Sports/Fantasy", 
+                        "uri": "dmoz/Sports/Fantasy", 
+                        "id": 383
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Society/Ethnicity/Celtic", 
+                        "uri": "dmoz/Society/Ethnicity/Celtic", 
+                        "id": 827
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Sports/Fantasy/Football", 
+                        "uri": "dmoz/Sports/Fantasy/Football", 
+                        "id": 829
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Shopping/Sports/Fitness", 
+                        "uri": "dmoz/Shopping/Sports/Fitness", 
+                        "id": 983
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }
+                ], 
+                "uri": "567876745", 
+                "eventUri": "eng-2739849", 
+                "date": "2016-12-18", 
+                "source": {
+                    "title": "The Telegraph", 
+                    "id": "220", 
+                    "uri": "www.telegraph.co.uk"
+                }, 
+                "time": "22:40:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9139841", 
+                "sim": 0.5137255191802979
+            }, 
+            {
+                "lang": "eng", 
+                "body": "Hailey Baldwin has ditched her normally blonde hair for something a bit more natural.\n\nYes, after going gray and then ombré pink, Baldwin is going back to her brunette roots with her latest hair transformation.\n\nIn a new Instagram photo, Baldwin is showing off a warmer chestnut-brown hue just in ...", 
+                "title": "Hailey Baldwin Goes Back To Her Roots", 
+                "url": "http://www.refinery29.com/2016/12/133391/hailey-baldwin-natural-hair-color", 
+                "concepts": [
+                    {
+                        "label": {
+                            "eng": "Instagram"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Instagram", 
+                        "id": "303287"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Hailey Baldwin"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Hailey_Baldwin", 
+                        "id": "1278156"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Health/Medicine/Medical Specialties", 
+                        "uri": "dmoz/Health/Medicine/Medical_Specialties", 
+                        "id": 3
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Reference/Education/Colleges and Universities", 
+                        "uri": "dmoz/Reference/Education/Colleges_and_Universities", 
+                        "id": 143
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Shopping/Health/Beauty", 
+                        "uri": "dmoz/Shopping/Health/Beauty", 
+                        "id": 173
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Business/Electronics and Electrical/Transformers and Inductors", 
+                        "uri": "dmoz/Business/Electronics_and_Electrical/Transformers_and_Inductors", 
+                        "id": 640
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Sports/Fitness", 
+                        "uri": "dmoz/Shopping/Sports/Fitness", 
+                        "id": 983
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Beauty", 
+                        "uri": "dmoz/Health/Beauty", 
+                        "id": 1142
+                    }
+                ], 
+                "uri": "567875868", 
+                "eventUri": null, 
+                "date": "2016-12-18", 
+                "source": {
+                    "title": "Refinery29", 
+                    "id": "4242", 
+                    "uri": "www.refinery29.com"
+                }, 
+                "time": "22:36:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9139419", 
+                "sim": 0
+            }, 
+            {
+                "lang": "eng", 
+                "body": "Divock Origi is ready for a 'war' in the Merseyside derby as he looks to take the best revenge on Everton defender Ramiro Funes Mori.\n\nThe last time the Liverpool striker and Funes Mori came face-to-face in April, Origi was carried off with ankle ligament damage after a horror tackle that led to the ...", 
+                "title": "Divock Origi expects 'war' against Everton", 
+                "url": "http://www.dailymail.co.uk/~/article-4046370/index.html", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Argentina", 
+                        "label": {
+                            "eng": "Argentina"
+                        }, 
+                        "score": 4, 
+                        "location": {
+                            "type": "country", 
+                            "label": {
+                                "eng": "Argentina"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "9"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Liverpool", 
+                        "label": {
+                            "eng": "Liverpool"
+                        }, 
+                        "score": 4, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "United Kingdom"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Liverpool"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "86727"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Sheffield Wednesday F.C."
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Sheffield_Wednesday_F.C.", 
+                        "id": "304436"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Everton F.C."
+                        }, 
+                        "score": 5, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Everton_F.C.", 
+                        "id": "307308"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Goodison Park"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Goodison_Park", 
+                        "id": "311373"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Anfield"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Anfield", 
+                        "id": "311380"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Liverpool F.C."
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Liverpool_F.C.", 
+                        "id": "311810"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Middlesbrough F.C."
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Middlesbrough_F.C.", 
+                        "id": "313857"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Daniel Sturridge"
+                        }, 
+                        "score": 1, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Daniel_Sturridge", 
+                        "id": "362476"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Divock Origi"
+                        }, 
+                        "score": 4, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Divock_Origi", 
+                        "id": "362477"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Phil Jagielka"
+                        }, 
+                        "score": 2, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Phil_Jagielka", 
+                        "id": "418693"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Rogelio Funes Mori"
+                        }, 
+                        "score": 5, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Rogelio_Funes_Mori", 
+                        "id": "421723"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Merseyside derby"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Merseyside_derby", 
+                        "id": "443130"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Ramiro Funes Mori"
+                        }, 
+                        "score": 4, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Ramiro_Funes_Mori", 
+                        "id": "522100"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 500, 
+                        "label": "dmoz/Society/History/By Time Period", 
+                        "uri": "dmoz/Society/History/By_Time_Period", 
+                        "id": 286
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Society/History/By Topic", 
+                        "uri": "dmoz/Society/History/By_Topic", 
+                        "id": 653
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Games/Board Games/Science Fiction", 
+                        "uri": "dmoz/Games/Board_Games/Science_Fiction", 
+                        "id": 876
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }
+                ], 
+                "uri": "567875210", 
+                "eventUri": "eng-2736405", 
+                "date": "2016-12-18", 
+                "source": {
+                    "title": "Mail Online", 
+                    "id": "214", 
+                    "uri": "www.dailymail.co.uk"
+                }, 
+                "time": "22:34:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9139194", 
+                "sim": 0.5882353186607361
+            }, 
+            {
+                "lang": "eng", 
+                "body": "Calcutta: To unleash those booming serves and win trophies, Boris 'Boom Boom Becker' depended on running and a proper fitness programme, and that yielded results in no uncertain terms.\n\nIf you run well, you can be at the prime of your fitness, believes Becker. And for the tennis great, there's just ...", 
+                "title": "Running is a journey: says Becker", 
+                "url": "http://www.telegraphindia.com/1161219/jsp/sports/story_125564.jsp", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Australia", 
+                        "label": {
+                            "eng": "Australia"
+                        }, 
+                        "score": 2, 
+                        "location": {
+                            "type": "country", 
+                            "label": {
+                                "eng": "Australia"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "12"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Germany", 
+                        "label": {
+                            "eng": "Germany"
+                        }, 
+                        "score": 2, 
+                        "location": {
+                            "type": "country", 
+                            "label": {
+                                "eng": "Germany"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "56"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/India", 
+                        "label": {
+                            "eng": "India"
+                        }, 
+                        "score": 2, 
+                        "location": {
+                            "type": "country", 
+                            "label": {
+                                "eng": "India"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "104"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Kolkata", 
+                        "label": {
+                            "eng": "Kolkata"
+                        }, 
+                        "score": 4, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "India"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Kolkata"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "54980"
+                    }, 
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Melbourne", 
+                        "label": {
+                            "eng": "Melbourne"
+                        }, 
+                        "score": 2, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "Australia"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Melbourne"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "298752"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Sport"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Sport", 
+                        "id": "302606"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Tennis"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Tennis", 
+                        "id": "302857"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Grand Slam (tennis)"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Grand_Slam_(tennis)", 
+                        "id": "304427"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Australian Open"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Australian_Open", 
+                        "id": "311473"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "The Championships, Wimbledon"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/The_Championships,_Wimbledon", 
+                        "id": "313023"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Icon"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Icon", 
+                        "id": "318052"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Trophy"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Trophy", 
+                        "id": "321426"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Tata Steel"
+                        }, 
+                        "score": 3, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Tata_Steel", 
+                        "id": "323610"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Bengal"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Bengal", 
+                        "id": "323657"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Puma SE"
+                        }, 
+                        "score": 3, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Puma_SE", 
+                        "id": "340654"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "List of WTA number 1 ranked players"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/List_of_WTA_number_1_ranked_players", 
+                        "id": "347055"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Dais"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Dais", 
+                        "id": "400851"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Sourav Ganguly"
+                        }, 
+                        "score": 2, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Sourav_Ganguly", 
+                        "id": "427929"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Maidan (Kolkata)"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Maidan_(Kolkata)", 
+                        "id": "531136"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Sports/Running", 
+                        "uri": "dmoz/Sports/Running", 
+                        "id": 385
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Sports/Running/Trail Running", 
+                        "uri": "dmoz/Sports/Running/Trail_Running", 
+                        "id": 386
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Sports/Fitness", 
+                        "uri": "dmoz/Shopping/Sports/Fitness", 
+                        "id": 983
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }
+                ], 
+                "uri": "567872346", 
+                "eventUri": "eng-2738681", 
+                "date": "2016-12-18", 
+                "source": {
+                    "title": "The Telegraph", 
+                    "id": "5349", 
+                    "uri": "www.telegraphindia.com"
+                }, 
+                "time": "22:22:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9138218", 
+                "sim": 0.5490196347236633
+            }, 
+            {
+                "lang": "eng", 
+                "body": "2017 Northeastern Oklahoma A&M TE Mik'Quan Deane (6-4, 245) received an offer from Oregon recently and he could be setting up a visit to check out the Ducks very soon...\n\nhttp://www.scout.com/player/175139-mik-quan-deane?s=87\n\n\"When Coach (Willie) Taggart got the job, I thought there was a good ...", 
+                "title": "Pac 12 Offer Could Change Everything For Dean", 
+                "url": "http://www.scout.com/junior-college-football/story/1738519-pac-12-offer-could-change-everything-for-dean", 
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Oregon", 
+                        "label": {
+                            "eng": "Oregon"
+                        }, 
+                        "score": 4, 
+                        "location": {
+                            "country": {
+                                "type": "country", 
+                                "label": {
+                                    "eng": "United States"
+                                }
+                            }, 
+                            "type": "place", 
+                            "label": {
+                                "eng": "Oregon"
+                            }
+                        }, 
+                        "type": "loc", 
+                        "id": "234247"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Twitter"
+                        }, 
+                        "score": 4, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Twitter", 
+                        "id": "302546"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Touchdown"
+                        }, 
+                        "score": 1, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Touchdown", 
+                        "id": "302611"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Tight end"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Tight_end", 
+                        "id": "312020"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "South Florida"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/South_Florida", 
+                        "id": "315128"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Offense (sports)"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Offense_(sports)", 
+                        "id": "328980"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Scout.com"
+                        }, 
+                        "score": 3, 
+                        "type": "org", 
+                        "uri": "http://en.wikipedia.org/wiki/Scout.com", 
+                        "id": "361119"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Reception (American football)"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Reception_(American_football)", 
+                        "id": "381508"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Taggart"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Taggart", 
+                        "id": "397581"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Green Country"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Green_Country_(Oklahoma)", 
+                        "id": "436994"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Josef Mik"
+                        }, 
+                        "score": 4, 
+                        "type": "person", 
+                        "uri": "http://en.wikipedia.org/wiki/Josef_Mik", 
+                        "id": "494854"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "College recruiting"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/College_recruiting", 
+                        "id": "1270254"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Sports/Fitness", 
+                        "uri": "dmoz/Shopping/Sports/Fitness", 
+                        "id": 983
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }
+                ], 
+                "uri": "567871118", 
+                "eventUri": null, 
+                "date": "2016-12-18", 
+                "source": {
+                    "title": "Scout.com", 
+                    "id": "4670", 
+                    "uri": "www.scout.com"
+                }, 
+                "time": "22:18:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9137886", 
+                "sim": 0
+            }, 
+            {
+                "lang": "eng", 
+                "body": "WHAT TO DO\n\nTo get your heart racing and boost your overall fitness, try skipping, advises Nadya Fairweather, founder of u-shape.co.uk. The benefits of even a few minutes a day are huge -- it strengthens bone density, tests endurance and improves agility.\n\nBuy a skipping rope (£2.99, ...", 
+                "title": "Get fit in just FIFTEEN minutes with skipping", 
+                "url": "http://www.dailymail.co.uk/~/article-4046214/index.html", 
+                "concepts": [
+                    {
+                        "label": {
+                            "eng": "Blood"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Blood", 
+                        "id": "302514"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Heart"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Heart", 
+                        "id": "302554"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Snack"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Snack", 
+                        "id": "303384"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Artery"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Artery", 
+                        "id": "304712"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Circulatory system"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Circulatory_system", 
+                        "id": "304842"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Apple"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Apple", 
+                        "id": "305364"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Physical exercise"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Physical_exercise", 
+                        "id": "305854"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Blood pressure"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Blood_pressure", 
+                        "id": "306500"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Rope"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Rope", 
+                        "id": "316317"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Avocado"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Avocado", 
+                        "id": "318027"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Physical fitness"
+                        }, 
+                        "score": 4, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Physical_fitness", 
+                        "id": "318839"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Lipid"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Lipid", 
+                        "id": "321665"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Bone density"
+                        }, 
+                        "score": 3, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Bone_density", 
+                        "id": "329250"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Potassium"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Potassium", 
+                        "id": "332018"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Low-density lipoprotein"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Low-density_lipoprotein", 
+                        "id": "339064"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Omega-3 fatty acid"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Omega-3_fatty_acid", 
+                        "id": "339182"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Anti-inflammatory"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Anti-inflammatory", 
+                        "id": "351218"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Salvia hispanica"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Salvia_hispanica", 
+                        "id": "357292"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Oily fish"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Oily_fish", 
+                        "id": "359035"
+                    }, 
+                    {
+                        "label": {
+                            "eng": "Flax"
+                        }, 
+                        "score": 2, 
+                        "type": "wiki", 
+                        "uri": "http://en.wikipedia.org/wiki/Flax", 
+                        "id": "360823"
+                    }
+                ], 
+                "categories": [
+                    {
+                        "wgt": 300, 
+                        "label": "dmoz/Health/Medicine/Medical Specialties", 
+                        "uri": "dmoz/Health/Medicine/Medical_Specialties", 
+                        "id": 3
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Business/Industrial Goods and Services/Industrial Supply", 
+                        "uri": "dmoz/Business/Industrial_Goods_and_Services/Industrial_Supply", 
+                        "id": 106
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Society/Issues/Health", 
+                        "uri": "dmoz/Society/Issues/Health", 
+                        "id": 289
+                    }, 
+                    {
+                        "wgt": 200, 
+                        "label": "dmoz/Health/Conditions and Diseases/Cardiovascular Disorders", 
+                        "uri": "dmoz/Health/Conditions_and_Diseases/Cardiovascular_Disorders", 
+                        "id": 359
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Mental Health/Disorders", 
+                        "uri": "dmoz/Health/Mental_Health/Disorders", 
+                        "id": 812
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Shopping/Sports/Fitness", 
+                        "uri": "dmoz/Shopping/Sports/Fitness", 
+                        "id": 983
+                    }, 
+                    {
+                        "wgt": 100, 
+                        "label": "dmoz/Health/Fitness", 
+                        "uri": "dmoz/Health/Fitness", 
+                        "id": 1028
+                    }
+                ], 
+                "uri": "567868567", 
+                "eventUri": null, 
+                "date": "2016-12-18", 
+                "source": {
+                    "title": "Mail Online", 
+                    "id": "214", 
+                    "uri": "www.dailymail.co.uk"
+                }, 
+                "time": "22:10:00", 
+                "isDuplicate": false, 
+                "wgt": 100, 
+                "id": "9136984", 
+                "sim": 0
+            }
+        ], 
+        "page": 1
+    }
+}
