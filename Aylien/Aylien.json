@@ -1,0 +1,678 @@
+{
+    "next_page_cursor": "AoJ4xqz9lNkCLlN0b3J5IDMwMzI1NDg5", 
+    "clusters": [], 
+    "stories": [
+        {
+            "body": "It has been a busy few weeks for Royal Mail workers as they deal with the rush of Christmas.\n\nAnd at the sorting office in Omagh, there are two workers who have seen quite a few Christmases come and go.\n\nRaymond Black is the longest-serving postman and Liam O'Keefe is the oldest postman in Northern Ireland - and between them they have clocked up almost 90 years in the job.\n\nMr Black, 64, started work at the age of 15 as a telegram boy delivering messages by bike.\n\n\"Back in 1968 there weren't a lot of telephones throughout the country and all sad news, urgent news was usually sent by telegram,\" he said.\n\n\"My first Christmas in Royal Mail was a small delivery on a bicycle with a carrier on the front.\n\n\"You used to pile the parcels on the front and usually got a wee bit top heavy. The back wheel could have rose off the ground whenever I got off it, but it was fun.\"\n\nHe now delivers the post each day in his hometown of Fintona.\n\n\"Present day I am covering under five miles (8km) on foot and about 70 miles (112km) around the countryside in the van every day, all weathers,\" he said.\n\n\"That's why I'm fit, I haven't put on weight.\"\n\nHe recalls delivering to a house near Drumquin which he reached by walking along a river bank and crossing a footbridge.\n\n\"I used to see a kingfisher most mornings, use to fly down the river very fast and wee small dippers, brown birds with a white breast - they used to pop in and out of the water and I used to think that was magic.\"\n\nOf course, not all wildlife is as nice or as friendly towards postmen.\n\n\"I don't have a big problem with dogs, the main attack was a rooster. It was really out of the blue, it could have been my red coat,\" he said.\n\n\"That was only five or six years ago and it came hackles up, spurs out and it meant business. Actually I was crossing the road and it still kept this relentless attack up. It was scary.\"\n\nHe said he hopes to continue working as a postman for a few more years.\n\n\"I'm going to keep on going as long as I can. I have 48 and a half (years) done so I'd like to make it to the even 50 and take it bit by bit then, see how it works out, but I do enjoy it.\"\n\nLiam O'Keefe is Royal Mail's oldest postman and has worked in the sorting office for almost 39 years. He has seen quite a few changes in the way it works.\n\nHe recalled that \"you'd be sorting all day here, maybe from eight o'clock in the morning to 10 o'clock at night\" but these days it is all done by machine.\n\nHis job now involves helping deliver parcels and deal with customers who come to the office to collect items in person, a job which he says is particularly enjoyable at Christmas time.\n\n\"It's good because you can see their smiling faces coming in. People maybe getting a present from a relative, maybe a son in Australia or somewhere, and they recognise the writing right away.\n\n\"It's a great time of year to be working in here, it's very, very busy.\"\n\nHe adds that he loves his job and he has no intention of retiring yet.", 
+            "language": "en", 
+            "hashtags": [
+                "#MailCarrier", 
+                "#RoyalMail", 
+                "#SortingOffice", 
+                "#Omagh", 
+                "#Australia", 
+                "#Dipper", 
+                "#Drumquin", 
+                "#Fintona", 
+                "#Bank", 
+                "#Kingfisher", 
+                "#River", 
+                "#NorthernIreland"
+            ], 
+            "entities": {
+                "body": [
+                    {
+                        "indices": [
+                            [
+                                2769, 
+                                2777
+                            ]
+                        ], 
+                        "text": "Australia", 
+                        "score": 0.9999999094461641, 
+                        "links": {
+                            "dbpedia": "http://dbpedia.org/resource/Australia"
+                        }, 
+                        "types": [
+                            "Country", 
+                            "Place"
+                        ]
+                    }, 
+                    {
+                        "indices": [
+                            [
+                                291, 
+                                306
+                            ]
+                        ], 
+                        "text": "Northern Ireland", 
+                        "score": 0.9999999999997726, 
+                        "links": {
+                            "dbpedia": "http://dbpedia.org/resource/Northern_Ireland"
+                        }, 
+                        "types": [
+                            "Country", 
+                            "Place"
+                        ]
+                    }, 
+                    {
+                        "indices": [
+                            [
+                                929, 
+                                935
+                            ]
+                        ], 
+                        "text": "Fintona", 
+                        "score": 1.0, 
+                        "links": {
+                            "dbpedia": "http://dbpedia.org/resource/Fintona"
+                        }, 
+                        "types": [
+                            "Settlement", 
+                            "Place"
+                        ]
+                    }, 
+                    {
+                        "indices": [
+                            [
+                                1281, 
+                                1290
+                            ]
+                        ], 
+                        "text": "kingfisher", 
+                        "score": 0.9974119851497725, 
+                        "links": {
+                            "dbpedia": "http://dbpedia.org/resource/Kingfisher"
+                        }, 
+                        "types": [
+                            "Bird"
+                        ]
+                    }, 
+                    {
+                        "indices": [
+                            [
+                                123, 
+                                127
+                            ]
+                        ], 
+                        "text": "Omagh", 
+                        "score": 1.0, 
+                        "links": {
+                            "dbpedia": "http://dbpedia.org/resource/Omagh"
+                        }, 
+                        "types": [
+                            "Settlement"
+                        ]
+                    }, 
+                    {
+                        "indices": [
+                            [
+                                1180, 
+                                1187
+                            ]
+                        ], 
+                        "text": "Drumquin", 
+                        "score": 1.0, 
+                        "links": {
+                            "dbpedia": "http://dbpedia.org/resource/Drumquin"
+                        }, 
+                        "types": [
+                            "Settlement"
+                        ]
+                    }, 
+                    {
+                        "indices": [
+                            [
+                                33, 
+                                42
+                            ], 
+                            [
+                                634, 
+                                643
+                            ], 
+                            [
+                                2162, 
+                                2171
+                            ]
+                        ], 
+                        "text": "Royal Mail", 
+                        "score": 0.9999974733534688, 
+                        "links": {
+                            "dbpedia": "http://dbpedia.org/resource/Royal_Mail"
+                        }, 
+                        "types": [
+                            "Company", 
+                            "Organisation"
+                        ]
+                    }, 
+                    {
+                        "indices": [
+                            [
+                                1357, 
+                                1363
+                            ]
+                        ], 
+                        "text": "dippers", 
+                        "score": 0.9827171616431637, 
+                        "links": {
+                            "dbpedia": "http://dbpedia.org/resource/Dipper"
+                        }, 
+                        "types": [
+                            "Bird"
+                        ]
+                    }, 
+                    {
+                        "indices": [
+                            [
+                                204, 
+                                216
+                            ]
+                        ], 
+                        "text": "Raymond Black", 
+                        "types": [
+                            "Person"
+                        ]
+                    }, 
+                    {
+                        "indices": [
+                            [
+                                82, 
+                                90
+                            ], 
+                            [
+                                621, 
+                                629
+                            ], 
+                            [
+                                2627, 
+                                2635
+                            ]
+                        ], 
+                        "text": "Christmas", 
+                        "types": [
+                            "Organisation"
+                        ]
+                    }
+                ], 
+                "title": [
+                    {
+                        "indices": [
+                            [
+                                0, 
+                                4
+                            ]
+                        ], 
+                        "text": "Omagh", 
+                        "score": 0.9950040375640674, 
+                        "links": {
+                            "dbpedia": "http://dbpedia.org/resource/Omagh"
+                        }, 
+                        "types": [
+                            "Settlement"
+                        ]
+                    }
+                ]
+            }, 
+            "sentiment": {
+                "body": {
+                    "polarity": "positive", 
+                    "score": 0.997531
+                }, 
+                "title": {
+                    "polarity": "neutral", 
+                    "score": 0.391434
+                }
+            }, 
+            "author": {
+                "id": 204483, 
+                "name": "Julian Fowler"
+            }, 
+            "characters_count": 2981, 
+            "media": [
+                {
+                    "content_length": 94424, 
+                    "format": "JPEG", 
+                    "url": "http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6CE4/production/_93067872_img_1821.jpg", 
+                    "height": 576, 
+                    "width": 1024, 
+                    "type": "image"
+                }
+            ], 
+            "paragraphs_count": 23, 
+            "title": "Omagh postmen share 90 years of experience", 
+            "sentences_count": 30, 
+            "summary": {
+                "sentences": [
+                    "It has been a busy few weeks for Royal Mail workers as they deal with the rush of Christmas.", 
+                    "Raymond Black is the longest-serving postman and Liam O'Keefe is the oldest postman in Northern Ireland - and between them they have clocked up almost 90 years in the job.", 
+                    "\"My first Christmas in Royal Mail was a small delivery on a bicycle with a carrier on the front.", 
+                    "He said he hopes to continue working as a postman for a few more years.", 
+                    "Liam O'Keefe is Royal Mail's oldest postman and has worked in the sorting office for almost 39 years."
+                ]
+            }, 
+            "links": {
+                "related_stories": "https://api.newsapi.aylien.com/api/v1/related_stories?story_id=30331070", 
+                "coverages": "https://api.newsapi.aylien.com/api/v1/coverages?story_id=30331070", 
+                "permalink": "http://www.bbc.co.uk/news/uk-northern-ireland-38390852"
+            }, 
+            "source": {
+                "scopes": [
+                    {
+                        "country": "GB", 
+                        "level": "national"
+                    }, 
+                    {
+                        "level": "international"
+                    }
+                ], 
+                "domain": "bbc.co.uk", 
+                "description": "British Broadcasting Corporation", 
+                "title": "BBC", 
+                "rankings": {
+                    "alexa": [
+                        {
+                            "rank": 99, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }, 
+                        {
+                            "country": "IN", 
+                            "rank": 664, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }, 
+                        {
+                            "country": "ES", 
+                            "rank": 283, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }, 
+                        {
+                            "country": "US", 
+                            "rank": 380, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }, 
+                        {
+                            "country": "IE", 
+                            "rank": 53, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }, 
+                        {
+                            "country": "AU", 
+                            "rank": 142, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }, 
+                        {
+                            "country": "NG", 
+                            "rank": 185, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }, 
+                        {
+                            "country": "GB", 
+                            "rank": 5, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }, 
+                        {
+                            "country": "FR", 
+                            "rank": 319, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }, 
+                        {
+                            "country": "KR", 
+                            "rank": 539, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }, 
+                        {
+                            "country": "IT", 
+                            "rank": 349, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }, 
+                        {
+                            "country": "ZA", 
+                            "rank": 137, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }, 
+                        {
+                            "country": "NL", 
+                            "rank": 193, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }, 
+                        {
+                            "country": "CA", 
+                            "rank": 212, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }, 
+                        {
+                            "country": "CN", 
+                            "rank": 1033, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }, 
+                        {
+                            "country": "DE", 
+                            "rank": 303, 
+                            "fetched_at": "2016-08-22T16:46:48Z"
+                        }
+                    ]
+                }, 
+                "locations": [
+                    {
+                        "country": "GB"
+                    }
+                ], 
+                "home_page_url": "http://www.bbc.co.uk/news/world/middle_east", 
+                "links_in_count": 316274, 
+                "logo_url": "http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif", 
+                "id": 29, 
+                "name": "BBC"
+            }, 
+            "published_at": "2016-12-23T06:34:52Z", 
+            "words_count": 603, 
+            "social_shares_count": {
+                "reddit": [], 
+                "google_plus": [], 
+                "facebook": [], 
+                "linkedin": []
+            }, 
+            "keywords": [
+                "experience", 
+                "Omagh", 
+                "years", 
+                "postmen", 
+                "Christmas time", 
+                "Royal Mail", 
+                "office", 
+                "Christmas", 
+                "postman", 
+                "time", 
+                "attack", 
+                "Mail", 
+                "Royal", 
+                "small", 
+                "mornings", 
+                "river", 
+                "busy", 
+                "parcels", 
+                "telegram", 
+                "Black", 
+                "workers", 
+                "miles", 
+                "Australia", 
+                "Northern Ireland", 
+                "bank", 
+                "Fintona", 
+                "kingfisher", 
+                "Drumquin", 
+                "sorting office", 
+                "dippers"
+            ], 
+            "id": 30331070, 
+            "categories": [
+                {
+                    "links": {
+                        "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB4-5", 
+                        "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB4"
+                    }, 
+                    "level": 2, 
+                    "taxonomy": "iab-qag", 
+                    "confident": false, 
+                    "score": 0.24424475777234558, 
+                    "id": "IAB4-5"
+                }, 
+                {
+                    "links": {
+                        "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB4"
+                    }, 
+                    "level": 1, 
+                    "taxonomy": "iab-qag", 
+                    "confident": true, 
+                    "score": 0.09861845623225148, 
+                    "id": "IAB4"
+                }, 
+                {
+                    "links": {
+                        "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/07016000", 
+                        "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/07000000"
+                    }, 
+                    "level": 2, 
+                    "taxonomy": "iptc-subjectcode", 
+                    "confident": true, 
+                    "score": 1.0, 
+                    "id": "07016000"
+                }
+            ]
+        }, 
+        {
+            "body": "Guyana is two countries because it got two sets of people who seeing two different things. One set seeing sheer trouble and another set causing mischief. When de budget pass one set see de budget as de wuss thing. Dem even tell de media that the budget is de most cruel thing to happen in de country.\n\n But dem got de other set who see de budget as de tool fuh ketch all dem crooks. It line up all dem people who not paying dem taxes and living off de poor even as dem same leech hollering. Dem boys seh that dem tek a walk round dem business place and all who claim that things bad, suddenly telling people that this year better than last year.\n\n Then dem got de city council which trying to get in pun de couple cents de people get from Soulja Bai. It get in wid some people who look like de Mafia fuh set up parking meter fuh collect. Dem see nuff car in de city. These cars come from all over and dem full up de street. Dem parking meter people see this and dem know that if de people had to go shopping then dem driver got to find somewhere to park. That is wheh de parking meter come in, because once dem stop and got to wait, is pay dem got to pay. That is wheh de problem deh, too, because once de parking meter people decide to act, dem got to get tow truck. That is wheh de trouble deh more, because de tow truck can’t move wid all dem vehicle pun de road.\n\n De parking meter people gun want to hand out tickets and unless dem can fight, nobody gun tek de ticket. Dem boys waiting to see how de thing gun wuk.\n\n Talk half and watch how de parking meter gun start a war.", 
+            "language": "en", 
+            "hashtags": [
+                "#Mafia", 
+                "#Guyana", 
+                "#Street", 
+                "#CityCouncil", 
+                "#Ketch"
+            ], 
+            "entities": {
+                "body": [
+                    {
+                        "indices": [
+                            [
+                                0, 
+                                5
+                            ]
+                        ], 
+                        "text": "Guyana", 
+                        "score": 0.9999937345172215, 
+                        "links": {
+                            "dbpedia": "http://dbpedia.org/resource/Guyana"
+                        }, 
+                        "types": [
+                            "Country"
+                        ]
+                    }
+                ], 
+                "title": []
+            }, 
+            "sentiment": {
+                "body": {
+                    "polarity": "negative", 
+                    "score": 0.982906
+                }, 
+                "title": {
+                    "polarity": "neutral", 
+                    "score": 0.531083
+                }
+            }, 
+            "author": {
+                "id": 59975, 
+                "name": "Knews"
+            }, 
+            "characters_count": 1579, 
+            "media": [
+                {
+                    "content_length": 6486, 
+                    "format": "JPEG", 
+                    "url": "http://www.kaieteurnewsonline.com/images/2016/12/demboysseh-5-150x150.jpg", 
+                    "height": 150, 
+                    "width": 150, 
+                    "type": "image"
+                }
+            ], 
+            "paragraphs_count": 5, 
+            "title": "People got some lash fuh de parking meter people", 
+            "sentences_count": 18, 
+            "summary": {
+                "sentences": [
+                    "Dem boys seh that dem tek a walk round dem business place and all who claim that things bad, suddenly telling people that this year better than last year.", 
+                    "It get in wid some people who look like de Mafia fuh set up parking meter fuh collect.", 
+                    "Dem parking meter people see this and dem know that if de people had to go shopping then dem driver got to find somewhere to park.", 
+                    "That is wheh de problem deh, too, because once de parking meter people decide to act, dem got to get tow truck.", 
+                    "De parking meter people gun want to hand out tickets and unless dem can fight, nobody gun tek de ticket."
+                ]
+            }, 
+            "links": {
+                "related_stories": "https://api.newsapi.aylien.com/api/v1/related_stories?story_id=30325489", 
+                "coverages": "https://api.newsapi.aylien.com/api/v1/coverages?story_id=30325489", 
+                "permalink": "http://www.kaieteurnewsonline.com/2016/12/23/people-got-some-lash-fuh-de-parking-meter-people/"
+            }, 
+            "source": {
+                "scopes": [
+                    {
+                        "country": "GY", 
+                        "level": "national"
+                    }
+                ], 
+                "domain": "kaieteurnewsonline.com", 
+                "name": "Kaieteur News", 
+                "title": "kaieteurnewsonline.com/", 
+                "rankings": {
+                    "alexa": [
+                        {
+                            "rank": 60023, 
+                            "fetched_at": "2016-08-22T16:53:25Z"
+                        }, 
+                        {
+                            "country": "IN", 
+                            "rank": 176012, 
+                            "fetched_at": "2016-08-22T16:53:25Z"
+                        }, 
+                        {
+                            "country": "VE", 
+                            "rank": 3132, 
+                            "fetched_at": "2016-08-22T16:53:25Z"
+                        }, 
+                        {
+                            "country": "KN", 
+                            "rank": 222, 
+                            "fetched_at": "2016-08-22T16:53:25Z"
+                        }, 
+                        {
+                            "country": "US", 
+                            "rank": 34602, 
+                            "fetched_at": "2016-08-22T16:53:25Z"
+                        }, 
+                        {
+                            "country": "BB", 
+                            "rank": 1136, 
+                            "fetched_at": "2016-08-22T16:53:25Z"
+                        }, 
+                        {
+                            "country": "GB", 
+                            "rank": 13709, 
+                            "fetched_at": "2016-08-22T16:53:25Z"
+                        }, 
+                        {
+                            "country": "TT", 
+                            "rank": 3443, 
+                            "fetched_at": "2016-08-22T16:53:25Z"
+                        }, 
+                        {
+                            "country": "GY", 
+                            "rank": 11, 
+                            "fetched_at": "2016-08-22T16:53:25Z"
+                        }, 
+                        {
+                            "country": "CA", 
+                            "rank": 8987, 
+                            "fetched_at": "2016-08-22T16:53:25Z"
+                        }
+                    ]
+                }, 
+                "locations": [
+                    {
+                        "country": "GY"
+                    }
+                ], 
+                "home_page_url": "http://www.kaieteurnewsonline.com/", 
+                "links_in_count": 574, 
+                "id": 1124
+            }, 
+            "published_at": "2016-12-23T04:34:25Z", 
+            "words_count": 317, 
+            "social_shares_count": {
+                "reddit": [], 
+                "google_plus": [
+                    {
+                        "count": 0, 
+                        "fetched_at": "2016-12-23T07:07:30Z"
+                    }
+                ], 
+                "facebook": [], 
+                "linkedin": [
+                    {
+                        "count": 0, 
+                        "fetched_at": "2016-12-23T07:07:30Z"
+                    }
+                ]
+            }, 
+            "keywords": [
+                "People", 
+                "meter", 
+                "parking", 
+                "people", 
+                "parking meter", 
+                "boys", 
+                "city", 
+                "budget", 
+                "countries", 
+                "trouble", 
+                "leech", 
+                "hollering", 
+                "poor", 
+                "taxes", 
+                "ketch", 
+                "walk", 
+                "crooks", 
+                "business", 
+                "sheer", 
+                "tool", 
+                "city council", 
+                "Mafia", 
+                "street", 
+                "Guyana"
+            ], 
+            "id": 30325489, 
+            "categories": [
+                {
+                    "links": {
+                        "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB2"
+                    }, 
+                    "level": 1, 
+                    "taxonomy": "iab-qag", 
+                    "confident": true, 
+                    "score": 0.08430270324539603, 
+                    "id": "IAB2"
+                }, 
+                {
+                    "links": {
+                        "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB2-16", 
+                        "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB2"
+                    }, 
+                    "level": 2, 
+                    "taxonomy": "iab-qag", 
+                    "confident": false, 
+                    "score": 0.0688767873555011, 
+                    "id": "IAB2-16"
+                }, 
+                {
+                    "links": {
+                        "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/10004000", 
+                        "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/10000000"
+                    }, 
+                    "level": 2, 
+                    "taxonomy": "iptc-subjectcode", 
+                    "confident": true, 
+                    "score": 0.587839275501854, 
+                    "id": "10004000"
+                }, 
+                {
+                    "links": {
+                        "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/07016000", 
+                        "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/07000000"
+                    }, 
+                    "level": 2, 
+                    "taxonomy": "iptc-subjectcode", 
+                    "confident": true, 
+                    "score": 0.4121607244687812, 
+                    "id": "07016000"
+                }
+            ]
+        }
+    ]
+}

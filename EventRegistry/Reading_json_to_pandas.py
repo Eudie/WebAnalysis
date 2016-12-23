@@ -18,7 +18,7 @@ for files in list_of_json_files:
 
     df = df.append(json_normalize(data['articles']['results']))
 
-
+df = df[:49]
 full_news_article = []
 for article_uri in df['uri']:
     er = EventRegistry()

@@ -1,25 +1,24 @@
-# import requests
-# import json
-# # url = "https://api.newsapi.aylien.com/api/v1/stories?language%5B%5D=en&published_at.start=NOW-3HOUR&published_at.end=NOW&categories.taxonomy=iptc-subjectcode&categories.confident=true&categories.id%5B%5D=07016000&cluster=false&cluster.algorithm=lingo&sort_by=published_at&sort_direction=desc&cursor=*&per_page=10"
-# # data = requests.get(url).json
-# # print data
-# #
-# #
-# # curl -X GET --header "Accept: application/json" --header "X-AYLIEN-NewsAPI-Application-ID: e8d39be3" --header "X-AYLIEN-NewsAPI-Application-Key: b693f631923fd42de6901ae725224e8b"
-#
-# url = "https://api.newsapi.aylien.com/api/v1/stories?language%5B%5D=en&published_at.start=NOW-3HOUR&published_at.end=NOW&categories.taxonomy=iptc-subjectcode&categories.confident=true&categories.id%5B%5D=07016000&cluster=false&cluster.algorithm=lingo&sort_by=published_at&sort_direction=desc&cursor=*&per_page=10"
-#
-# headers = {"Accept: application/json", "X-AYLIEN-NewsAPI-Application-ID: e8d39be3", "X-AYLIEN-NewsAPI-Application-Key: b693f631923fd42de6901ae725224e8b"}
-# r = requests.get(url, headers=headers).json()
-# print r
+#!/usr/bin/python
+# Author: Eudie
 
-
-import urllib2
-
+import codecs
+import json
+import pycurl
+from StringIO import StringIO
 url = "https://api.newsapi.aylien.com/api/v1/stories?language%5B%5D=en&published_at.start=NOW-3HOUR&published_at.end=NOW&categories.taxonomy=iptc-subjectcode&categories.confident=true&categories.id%5B%5D=07016000&cluster=false&cluster.algorithm=lingo&sort_by=published_at&sort_direction=desc&cursor=*&per_page=10"
-req = urllib2.Request(url, {"Accept: application/json", "X-AYLIEN-NewsAPI-Application-ID: e8d39be3", "X-AYLIEN-NewsAPI-Application-Key: b693f631923fd42de6901ae725224e8b"})
-print req
-f = urllib2.urlopen(req)
-for x in f:
-    print(x)
-f.close()
+
+buffer = StringIO()
+c = pycurl.Curl()
+c.setopt(pycurl.URL, url)
+c.setopt(pycurl.HTTPHEADER, ["Accept: application/json", "X-AYLIEN-NewsAPI-Application-ID: ", "X-AYLIEN-NewsAPI-Application-Key: "])
+c.setopt(c.WRITEDATA, buffer)
+c.perform()
+c.close()
+
+body = json.loads(buffer.getvalue())
+print type(body)
+
+with codecs.open('Aylien.json', 'w', encoding='utf-8') as f:
+    json.dump(body, f, ensure_ascii=False, indent=4)
+
+

@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Eudie
+
+
 import time
 import aylien_news_api
 from aylien_news_api.rest import ApiException
@@ -33,19 +37,19 @@ def fetch_new_stories(params={}):
 
 
 # Configure API key authorization: app_id
-aylien_news_api.configuration.api_key['X-AYLIEN-NewsAPI-Application-ID'] = 'e8d39be3'
+aylien_news_api.configuration.api_key['X-AYLIEN-NewsAPI-Application-ID'] = ''
 # Configure API key authorization: app_key
-aylien_news_api.configuration.api_key['X-AYLIEN-NewsAPI-Application-Key'] = 'b693f631923fd42de6901ae725224e8b'
+aylien_news_api.configuration.api_key['X-AYLIEN-NewsAPI-Application-Key'] = ''
 
 # create an instance of the API class
 api_instance = aylien_news_api.DefaultApi()
 
 params = {
     'language': ['en'],
-    'published_at_start': 'NOW-30DAY',
+    'published_at_start': 'NOW-6HOUR',
     'published_at_end': 'NOW',
     'categories_taxonomy': 'iptc-subjectcode',
-    'categories_id': ['07003003'],
+    'categories_id': ['07016000'],
     'cursor': '*',
     'per_page': 100
 }
